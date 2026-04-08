@@ -53,6 +53,7 @@ repositories {
 
 dependencies {
   implementation files('lib/jipv6.jar')
+  implementation files('lib/rl-agent-all.jar')
   // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
   implementation 'ch.qos.logback:logback-classic:1.5.18'
   // https://mvnrepository.com/artifact/com.github.cliftonlabs/json-simple
